@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1168,8 +1168,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 569976491}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.68, y: 7.8809967, z: 8.1}
-  m_LocalScale: {x: 8.610969, y: 14.974801, z: 1}
+  m_LocalPosition: {x: 14.794, y: 7.8809967, z: 8.1}
+  m_LocalScale: {x: 8.383201, y: 14.974801, z: 1}
   m_Children: []
   m_Father: {fileID: 1837154241}
   m_RootOrder: 7
@@ -1205,7 +1205,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e287e1594d9a57a4f840ce055e19d14f, type: 2}
+  - {fileID: 2100000, guid: 64c636f5366f94740906ee044403c91b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
